@@ -8,4 +8,9 @@ public class Demo {
         System.out.println("hahahha");
 
     }
+
+
+    public void show(){
+        System.out.println("hehe");
+    }
 }
